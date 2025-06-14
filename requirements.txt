@@ -16,3 +16,6 @@ colorama
 pyyaml
 python-Levenshtein
 pytest
+protobuf
+werkzeug==0.16.1
+flask-wtf
